@@ -2,7 +2,7 @@ let product_lists = ["product_id_1", "product_id_2"];
 
 const product_Detail1 = {
      ProductId: "product_id_1",
-     productName: "Automatic Door and collar",
+     productName: "Automatic Door and Detecting location collar",
      price: 25000,
      Features: ["High resistance and Waterproof","Wifi","long performance"]
 };
